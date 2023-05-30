@@ -30,6 +30,8 @@ public class MainActivity extends AppCompatActivity {
         Button btn8 = findViewById(R.id.button8);
         Button btn9 = findViewById(R.id.button9);
 
+        patate
+
         btn1.setOnClickListener(btnListenerJouerCase);
         btn2.setOnClickListener(btnListenerJouerCase);
         btn3.setOnClickListener(btnListenerJouerCase);
